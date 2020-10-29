@@ -108,7 +108,7 @@ private static final String Select = null;
 	
 //	Search items and checkout process
 	public Addtocart browse(String item) throws InterruptedException, IOException
-//	public void browse(String item) throws InterruptedException
+
 	{
 //		Search the 1st Item
 //		searchbox.sendKeys(item);
@@ -133,40 +133,10 @@ private static final String Select = null;
 //		  BW.newLine();//To write next string on new line.
 //		  BW.write("This Is Second Line."); //Writing In To File.
 		  BW.close();
-		
-		
-		
-//		WebElement elementOfInterest;
-//		try {
-//		    //trying to get the "select option"
-//		    elementOfInterest = selectorElement(highprice);
-//
-//		} catch (NoSuchElementException e) { 
-//		    //so options are not visible, meaning we need to click first
-//		    selectorElement.click();
-//		    Thread.sleep(100);
-//		    //good idea would be to put "wait for element" here
-//		    elementOfInterest = selectorElement(highprice);
-//		}
-//		//this would select the option
-//		elementOfInterest.click();
-
 		Thread.sleep(20);
 		
-//		Search the 2nd item
-//		searchbox.sendKeys("iPhone 11");
-//		WebElement searchbutton1=searchitem;
-//		
-//		searchbutton1.click();
-//		(new WebDriverWait(driver, 10))
-//	              .until(ExpectedConditions.presenceOfElementLocated(By.xpath("//div[@class='s-result-list s-search-results sg-row']")));
-//		
-//		Select drpprice = new Select(selectprice);
-//		drpprice.selectByVisibleText("Price: High to Low");
-////		selectprice.click();
 		
-		
-		// Commented of checkoutpocess
+//      Commented of checkoutpocess
 //		addtocart.click();
 //		Thread.sleep(10);
 //		proceedtopayout.click();

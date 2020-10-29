@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="1" ignored="0" total="2" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="42383" started-at="2020-10-28T15:05:01Z" finished-at="2020-10-28T15:05:43Z">
+  <suite name="Default suite" duration-ms="30572" started-at="2020-10-29T04:15:45Z" finished-at="2020-10-29T04:16:16Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="42383" started-at="2020-10-28T15:05:01Z" finished-at="2020-10-28T15:05:43Z">
+    <test name="Default test" duration-ms="30572" started-at="2020-10-29T04:15:45Z" finished-at="2020-10-29T04:16:16Z">
       <class name="com.qa.testcases.test_checkout">
-        <test-method status="PASS" signature="TestSetup()[pri:0, instance:com.qa.testcases.test_checkout@26653222]" name="TestSetup" is-config="true" duration-ms="18466" started-at="2020-10-28T20:35:01Z" finished-at="2020-10-28T20:35:19Z">
+        <test-method status="PASS" signature="TestSetup()[pri:0, instance:com.qa.testcases.test_checkout@26653222]" name="TestSetup" is-config="true" duration-ms="12476" started-at="2020-10-29T09:45:45Z" finished-at="2020-10-29T09:45:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestSetup -->
-        <test-method status="PASS" signature="Logo_ImageTest()[pri:1, instance:com.qa.testcases.test_checkout@26653222]" name="Logo_ImageTest" duration-ms="119" started-at="2020-10-28T20:35:19Z" finished-at="2020-10-28T20:35:20Z">
+        <test-method status="PASS" signature="Logo_ImageTest()[pri:1, instance:com.qa.testcases.test_checkout@26653222]" name="Logo_ImageTest" duration-ms="211" started-at="2020-10-29T09:45:58Z" finished-at="2020-10-29T09:45:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Logo_ImageTest -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.testcases.test_checkout@26653222]" name="teardown" is-config="true" duration-ms="1250" started-at="2020-10-28T20:35:20Z" finished-at="2020-10-28T20:35:21Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.testcases.test_checkout@26653222]" name="teardown" is-config="true" duration-ms="2456" started-at="2020-10-29T09:45:58Z" finished-at="2020-10-29T09:46:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method status="PASS" signature="TestSetup()[pri:0, instance:com.qa.testcases.test_checkout@26653222]" name="TestSetup" is-config="true" duration-ms="14936" started-at="2020-10-28T20:35:21Z" finished-at="2020-10-28T20:35:36Z">
+        <test-method status="PASS" signature="TestSetup()[pri:0, instance:com.qa.testcases.test_checkout@26653222]" name="TestSetup" is-config="true" duration-ms="8709" started-at="2020-10-29T09:46:01Z" finished-at="2020-10-29T09:46:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestSetup -->
-        <test-method status="FAIL" signature="searchItem()[pri:2, instance:com.qa.testcases.test_checkout@26653222]" name="searchItem" duration-ms="4311" started-at="2020-10-28T20:35:36Z" finished-at="2020-10-28T20:35:40Z">
+        <test-method status="FAIL" signature="searchItem()[pri:2, instance:com.qa.testcases.test_checkout@26653222]" name="searchItem" duration-ms="4488" started-at="2020-10-29T09:46:09Z" finished-at="2020-10-29T09:46:14Z">
           <exception class="java.io.IOException">
             <message>
               <![CDATA[The filename, directory name, or volume label syntax is incorrect]]>
@@ -65,7 +65,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchItem -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.testcases.test_checkout@26653222]" name="teardown" is-config="true" duration-ms="3208" started-at="2020-10-28T20:35:40Z" finished-at="2020-10-28T20:35:43Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.testcases.test_checkout@26653222]" name="teardown" is-config="true" duration-ms="2135" started-at="2020-10-29T09:46:14Z" finished-at="2020-10-29T09:46:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
