@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Amazon Checkout Process]">
+  <test name="First Test(failed)">
+    <classes>
+      <class name="com.qa.testcases.test_checkout">
+        <methods>
+          <include name="searchItem"/>
+          <include name="teardown"/>
+          <include name="TestSetup"/>
+        </methods>
+      </class> <!-- com.qa.testcases.test_checkout -->
+    </classes>
+  </test> <!-- First Test(failed) -->
+</suite> <!-- Failed suite [Amazon Checkout Process] -->
