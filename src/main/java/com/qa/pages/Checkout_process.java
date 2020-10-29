@@ -154,10 +154,10 @@ private static final String Select = null;
 		
 //		Signup Process
 //		custname.sendKeys("Testing");
-//      mobileno.sendKeys("9762035716");
-//		emailid.sendKeys("amazontesing1@gmail.com");
-//		password.sendKeys("amazon12!@");
-//		re_password.sendKeys("amazon12!@");
+//      mobileno.sendKeys("9762035715");
+//		emailid.sendKeys("amazontesin@gmail.com");
+//		password.sendKeys("amazon123");
+//		re_password.sendKeys("amazon13");
 //		submit.click();
 //		
 		return new Addtocart();
